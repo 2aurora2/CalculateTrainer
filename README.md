@@ -36,20 +36,20 @@ CalculateTrainer
 │    ├─ CalculateTrainer.vcxproj
 │    ├─ CalculateTrainer.vcxproj.filters
 │    ├─ CalculateTrainer.vcxproj.user
-│    ├─ CountNearNum.cpp				 # “混合运算计算相邻两项”函数
-│    ├─ DivisionTrainer.cpp				 # “除法运算练习”函数
-│    ├─ Menu.h        					 # “菜单函数”声明头文件
+│    ├─ CountNearNum.cpp			# “混合运算计算相邻两项”函数
+│    ├─ DivisionTrainer.cpp			# “除法运算练习”函数
+│    ├─ Menu.h        			# “菜单函数”声明头文件
 │    ├─ MixedTrainer.cpp                 # “混合运算练习”主函数
 │    ├─ MultiplyTrainer.cpp              # “乘法运算练习“函数
-│    ├─ ShowMainMenu.cpp				 # “展示主菜单”函数
-│    ├─ ShowPatternMenu.cpp				 # “展示模式选择菜单”函数
-│    ├─ ShowTrainerDesc.cpp				 # “展示系统说明”函数
-│    ├─ SubtractionTrainer.cpp			 # “减法运算练习”函数
-│    ├─ Trainer.h						 # “练习函数”声明头文件
-│    ├─ compare.cpp						 # “混合运算运算符优先级比较”函数
-│    ├─ main.cpp						 # 主函数
-│    ├─ var.cpp							 # “全局变量”定义
-│    ├─ var.h							 # “全局变量”声明头文件
+│    ├─ ShowMainMenu.cpp			# “展示主菜单”函数
+│    ├─ ShowPatternMenu.cpp			# “展示模式选择菜单”函数
+│    ├─ ShowTrainerDesc.cpp			# “展示系统说明”函数
+│    ├─ SubtractionTrainer.cpp		# “减法运算练习”函数
+│    ├─ Trainer.h				# “练习函数”声明头文件
+│    ├─ compare.cpp				# “混合运算运算符优先级比较”函数
+│    ├─ main.cpp				# 主函数
+│    ├─ var.cpp				# “全局变量”定义
+│    ├─ var.h					# “全局变量”声明头文件
 │    └─ x64
 │           └─ Debug
 ├─ CalculateTrainer.sln
@@ -59,9 +59,3 @@ CalculateTrainer
               └─ CalculateTrainer.pdb
 ```
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
