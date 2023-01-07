@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f69419bc-e4e0-4e78-9de2-9bd838576bca": {
+      "ProjectGuid": "f69419bc-e4e0-4e78-9de2-9bd838576bca",
+      "DisplayName": "CalculateTrainer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
